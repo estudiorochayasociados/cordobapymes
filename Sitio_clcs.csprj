@@ -1,0 +1,29 @@
+
+<codestructure version="5.8">
+<phptree>
+<treenode node="Config/Autoload.php;PHP:PHP Include;D:\Web\sitio-novedades\index.php;f14;1;33;1;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m,0;;e">
+</treenode>
+<treenode node="vendor/autoload.php;PHP:PHP Include;D:\Web\sitio-novedades\Clases\Contacto.php;f9;7;28;7;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m,0;;e">
+</treenode>
+<treenode node="Contacto;PHP:Class Name;D:\Web\sitio-novedades\Clases\Contacto.php;f0;9;1;119;;;;vpos;;v;;a;;r;;d0,10;;b0,0;;m,0;;e">
+<treenode node="__construct;PHP:Function Name;D:\Web\sitio-novedades\Clases\Contacto.php;f11;20;5;23;;;;vpos;;v;;a;;r;;d4,21;;b1,0;;m,0;;e">
+</treenode>
+<treenode node="add;PHP:Function Name;D:\Web\sitio-novedades\Clases\Contacto.php;f11;35;5;40;;;;vpos;;v;;a;;r;;d4,36;;b1,0;;m,0;;e">
+</treenode>
+<treenode node="delete;PHP:Function Name;D:\Web\sitio-novedades\Clases\Contacto.php;f11;54;5;59;;;;vpos;;v;;a;;r;;d4,55;;b1,0;;m,0;;e">
+</treenode>
+<treenode node="edit;PHP:Function Name;D:\Web\sitio-novedades\Clases\Contacto.php;f11;42;5;52;;;;vpos;;v;;a;;r;;d4,43;;b1,0;;m,0;;e">
+</treenode>
+<treenode node="emailSend;PHP:Function Name;D:\Web\sitio-novedades\Clases\Contacto.php;f11;90;5;118;;;;vpos;;v;;a;;r;;d4,91;;b1,0;;m,0;;easunto;;pemisor;;preceptor;;pmessage;;p">
+</treenode>
+<treenode node="get;PHP:Function Name;D:\Web\sitio-novedades\Clases\Contacto.php;f11;30;5;33;;;;vpos;;v;;a;;r;;d4,31;;b1,0;;m,0;;eatributo;;p">
+</treenode>
+<treenode node="list;PHP:Function Name;D:\Web\sitio-novedades\Clases\Contacto.php;f4;69;5;88;;;;vpos;;v;;a;;r;;d4,70;;b0,0;;m,0;;efilter;;p">
+</treenode>
+<treenode node="set;PHP:Function Name;D:\Web\sitio-novedades\Clases\Contacto.php;f11;25;5;28;;;;vpos;;v;;a;;r;;d4,26;;b1,0;;m,0;;eatributo;;pvalor;;p">
+</treenode>
+<treenode node="view;PHP:Function Name;D:\Web\sitio-novedades\Clases\Contacto.php;f11;61;5;67;;;;vpos;;v;;a;;r;;d4,62;;b1,0;;m,0;;e">
+</treenode>
+</treenode>
+</phptree>
+</codestructure>

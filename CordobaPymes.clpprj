@@ -1,0 +1,767 @@
+<?xml version='1.0' encoding='utf-8'?>
+<project name="\\PUESTO07-PC\Web\CordobaPymes\CordobaPymes.clpprj">
+ <settings>
+  <PM_URL><![CDATA[\\PUESTO07-PC\Web\CordobaPymes]]></PM_URL>
+  <PM_HOME_URL><![CDATA[\\PUESTO07-PC\Web\CordobaPymes]]></PM_HOME_URL>
+  <PM_LIBS><![CDATA[]]></PM_LIBS>
+  <PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION>
+  <PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR>
+  <PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE>
+ </settings>
+ <removed value=";\\PUESTO07-PC\Web\CordobaPymes\paginacion;\\PUESTO07-PC\Web\CordobaPymes\paginacion\Zebra_Pagination.php;"/>
+ <added value=""/>
+ <lastopfiles>
+  <file name="\\PUESTO07-PC\Web\CordobaPymes\assets\css\style.css"/>
+  <file name="\\PUESTO07-PC\Web\CordobaPymes\assets\inc\nav.inc.php"/>
+  <file name="\\PUESTO07-PC\Web\CordobaPymes\novedades.php"/>
+  <file name="\\PUESTO07-PC\Web\CordobaPymes\assets\css\style.css"/>
+  <file name="\\PUESTO07-PC\Web\CordobaPymes\assets\inc\nav.inc.php"/>
+  <file name="\\PUESTO07-PC\Web\CordobaPymes\novedades.php"/>
+  <lastactivefile name=""/>
+ </lastopfiles>
+ <errors version="1.3">
+  <errfile name="\\PUESTO07-PC\Web\CordobaPymes\assets\css\style.css">
+   <error val="7;24;36;24;2501;1;"/>
+  </errfile>
+ </errors>
+ <cakedata/>
+ <dplmenupath/>
+ <laravael/>
+ <smartyassings/>
+ <twigtemplate/>
+ <yiidata/>
+ <todoblock>
+  <todofile name="\\PUESTO07-PC\Web\CordobaPymes\Clases\Admin.php">
+   <todo pos="7;13" name="todos"/>
+  </todofile>
+  <todofile name="\\PUESTO07-PC\Web\CordobaPymes\Clases\Banner.php">
+   <todo pos="7;15" name="todos"/>
+  </todofile>
+  <todofile name="\\PUESTO07-PC\Web\CordobaPymes\Clases\Carrito.php">
+   <todo pos="7;15" name="todos"/>
+  </todofile>
+  <todofile name="\\PUESTO07-PC\Web\CordobaPymes\Clases\Categorias.php">
+   <todo pos="7;14" name="todos"/>
+  </todofile>
+  <todofile name="\\PUESTO07-PC\Web\CordobaPymes\Clases\Contacto.php">
+   <todo pos="7;19" name="todos"/>
+  </todofile>
+  <todofile name="\\PUESTO07-PC\Web\CordobaPymes\Clases\Contenidos.php">
+   <todo pos="7;10" name="todos"/>
+  </todofile>
+  <todofile name="\\PUESTO07-PC\Web\CordobaPymes\Clases\Galerias.php">
+   <todo pos="4;18" name="todos"/>
+  </todofile>
+  <todofile name="\\PUESTO07-PC\Web\CordobaPymes\Clases\Imagenes.php">
+   <todo pos="7;14" name="todos"/>
+  </todofile>
+  <todofile name="\\PUESTO07-PC\Web\CordobaPymes\Clases\Novedades.php">
+   <todo pos="7;18" name="todos"/>
+  </todofile>
+  <todofile name="\\PUESTO07-PC\Web\CordobaPymes\Clases\Pedidos.php">
+   <todo pos="7;18" name="todos"/>
+  </todofile>
+  <todofile name="\\PUESTO07-PC\Web\CordobaPymes\Clases\Portfolio.php">
+   <todo pos="7;18" name="todos"/>
+  </todofile>
+  <todofile name="\\PUESTO07-PC\Web\CordobaPymes\Clases\Productos.php">
+   <todo pos="7;24" name="todos"/>
+  </todofile>
+  <todofile name="\\PUESTO07-PC\Web\CordobaPymes\Clases\Servicios.php">
+   <todo pos="7;18" name="todos"/>
+  </todofile>
+  <todofile name="\\PUESTO07-PC\Web\CordobaPymes\Clases\Sliders.php">
+   <todo pos="7;16" name="todos"/>
+  </todofile>
+  <todofile name="\\PUESTO07-PC\Web\CordobaPymes\Clases\Subcategorias.php">
+   <todo pos="7;14" name="todos"/>
+  </todofile>
+  <todofile name="\\PUESTO07-PC\Web\CordobaPymes\Clases\Usuarios.php">
+   <todo pos="3;25" name="todos"/>
+  </todofile>
+  <todofile name="\\PUESTO07-PC\Web\CordobaPymes\Clases\Videos.php">
+   <todo pos="7;10" name="todos"/>
+  </todofile>
+  <todofile name="\\PUESTO07-PC\Web\CordobaPymes\vendor\phpmailer\phpmailer\src\PHPMailer.php">
+   <todo pos="18;2598" name="TODO would be nice to use php://temp streams here"/>
+   <todo pos="17;2598" name="@TODO would be nice to use php://temp streams here"/>
+  </todofile>
+ </todoblock>
+ <dbgurls/>
+ <filescache>
+  <file crc="1541762795796" name="\\PUESTO07-PC\Web\CordobaPymes\vendor\phpmailer\phpmailer\src\SMTP.php"/>
+  <file crc="1541762795796" name="\\PUESTO07-PC\Web\CordobaPymes\vendor\phpmailer\phpmailer\src\POP3.php"/>
+  <file crc="1541762795796" name="\\PUESTO07-PC\Web\CordobaPymes\vendor\phpmailer\phpmailer\src\PHPMailer.php"/>
+  <file crc="1541762795796" name="\\PUESTO07-PC\Web\CordobaPymes\vendor\phpmailer\phpmailer\src\OAuth.php"/>
+  <file crc="1541762795796" name="\\PUESTO07-PC\Web\CordobaPymes\vendor\phpmailer\phpmailer\src\Exception.php"/>
+  <file crc="1541762795796" name="\\PUESTO07-PC\Web\CordobaPymes\vendor\phpmailer\phpmailer\language\phpmailer.lang-zh_cn.php"/>
+  <file crc="1541762795796" name="\\PUESTO07-PC\Web\CordobaPymes\vendor\phpmailer\phpmailer\language\phpmailer.lang-zh.php"/>
+  <file crc="1541762795796" name="\\PUESTO07-PC\Web\CordobaPymes\vendor\phpmailer\phpmailer\language\phpmailer.lang-vi.php"/>
+  <file crc="1541762795796" name="\\PUESTO07-PC\Web\CordobaPymes\vendor\phpmailer\phpmailer\language\phpmailer.lang-uk.php"/>
+  <file crc="1541762795796" name="\\PUESTO07-PC\Web\CordobaPymes\vendor\phpmailer\phpmailer\language\phpmailer.lang-tr.php"/>
+  <file crc="1541762795796" name="\\PUESTO07-PC\Web\CordobaPymes\vendor\phpmailer\phpmailer\language\phpmailer.lang-sv.php"/>
+  <file crc="1541762795796" name="\\PUESTO07-PC\Web\CordobaPymes\vendor\phpmailer\phpmailer\language\phpmailer.lang-sl.php"/>
+  <file crc="1541762795796" name="\\PUESTO07-PC\Web\CordobaPymes\vendor\phpmailer\phpmailer\language\phpmailer.lang-sk.php"/>
+  <file crc="1541762795796" name="\\PUESTO07-PC\Web\CordobaPymes\vendor\phpmailer\phpmailer\language\phpmailer.lang-ru.php"/>
+  <file crc="1541762795796" name="\\PUESTO07-PC\Web\CordobaPymes\vendor\phpmailer\phpmailer\language\phpmailer.lang-rs.php"/>
+  <file crc="1541762795796" name="\\PUESTO07-PC\Web\CordobaPymes\vendor\phpmailer\phpmailer\language\phpmailer.lang-ro.php"/>
+  <file crc="1541762795796" name="\\PUESTO07-PC\Web\CordobaPymes\vendor\phpmailer\phpmailer\language\phpmailer.lang-pt_br.php"/>
+  <file crc="1541762795796" name="\\PUESTO07-PC\Web\CordobaPymes\vendor\phpmailer\phpmailer\language\phpmailer.lang-pt.php"/>
+  <file crc="1541762795796" name="\\PUESTO07-PC\Web\CordobaPymes\vendor\phpmailer\phpmailer\language\phpmailer.lang-pl.php"/>
+  <file crc="1541762795796" name="\\PUESTO07-PC\Web\CordobaPymes\vendor\phpmailer\phpmailer\language\phpmailer.lang-nl.php"/>
+  <file crc="1541762795796" name="\\PUESTO07-PC\Web\CordobaPymes\vendor\phpmailer\phpmailer\language\phpmailer.lang-nb.php"/>
+  <file crc="1541762795796" name="\\PUESTO07-PC\Web\CordobaPymes\vendor\phpmailer\phpmailer\language\phpmailer.lang-ms.php"/>
+  <file crc="1541762795780" name="\\PUESTO07-PC\Web\CordobaPymes\vendor\phpmailer\phpmailer\language\phpmailer.lang-lv.php"/>
+  <file crc="1541762795780" name="\\PUESTO07-PC\Web\CordobaPymes\vendor\phpmailer\phpmailer\language\phpmailer.lang-lt.php"/>
+  <file crc="1541762795780" name="\\PUESTO07-PC\Web\CordobaPymes\vendor\phpmailer\phpmailer\language\phpmailer.lang-ko.php"/>
+  <file crc="1541762795780" name="\\PUESTO07-PC\Web\CordobaPymes\vendor\phpmailer\phpmailer\language\phpmailer.lang-ka.php"/>
+  <file crc="1541762795780" name="\\PUESTO07-PC\Web\CordobaPymes\vendor\phpmailer\phpmailer\language\phpmailer.lang-ja.php"/>
+  <file crc="1541762795780" name="\\PUESTO07-PC\Web\CordobaPymes\vendor\phpmailer\phpmailer\language\phpmailer.lang-it.php"/>
+  <file crc="1541762795780" name="\\PUESTO07-PC\Web\CordobaPymes\vendor\phpmailer\phpmailer\language\phpmailer.lang-id.php"/>
+  <file crc="1541762795780" name="\\PUESTO07-PC\Web\CordobaPymes\vendor\phpmailer\phpmailer\language\phpmailer.lang-hu.php"/>
+  <file crc="1541762795780" name="\\PUESTO07-PC\Web\CordobaPymes\vendor\phpmailer\phpmailer\language\phpmailer.lang-hr.php"/>
+  <file crc="1541762795780" name="\\PUESTO07-PC\Web\CordobaPymes\vendor\phpmailer\phpmailer\language\phpmailer.lang-hi.php"/>
+  <file crc="1541762795780" name="\\PUESTO07-PC\Web\CordobaPymes\vendor\phpmailer\phpmailer\language\phpmailer.lang-he.php"/>
+  <file crc="1541762795780" name="\\PUESTO07-PC\Web\CordobaPymes\vendor\phpmailer\phpmailer\language\phpmailer.lang-gl.php"/>
+  <file crc="1541762795780" name="\\PUESTO07-PC\Web\CordobaPymes\vendor\phpmailer\phpmailer\language\phpmailer.lang-fr.php"/>
+  <file crc="1541762795780" name="\\PUESTO07-PC\Web\CordobaPymes\vendor\phpmailer\phpmailer\language\phpmailer.lang-fo.php"/>
+  <file crc="1541762795780" name="\\PUESTO07-PC\Web\CordobaPymes\vendor\phpmailer\phpmailer\language\phpmailer.lang-fi.php"/>
+  <file crc="1541762795780" name="\\PUESTO07-PC\Web\CordobaPymes\vendor\phpmailer\phpmailer\language\phpmailer.lang-fa.php"/>
+  <file crc="1541762795780" name="\\PUESTO07-PC\Web\CordobaPymes\vendor\phpmailer\phpmailer\language\phpmailer.lang-et.php"/>
+  <file crc="1541762795780" name="\\PUESTO07-PC\Web\CordobaPymes\vendor\phpmailer\phpmailer\language\phpmailer.lang-es.php"/>
+  <file crc="1541762795780" name="\\PUESTO07-PC\Web\CordobaPymes\vendor\phpmailer\phpmailer\language\phpmailer.lang-eo.php"/>
+  <file crc="1541762795780" name="\\PUESTO07-PC\Web\CordobaPymes\vendor\phpmailer\phpmailer\language\phpmailer.lang-el.php"/>
+  <file crc="1541762795780" name="\\PUESTO07-PC\Web\CordobaPymes\vendor\phpmailer\phpmailer\language\phpmailer.lang-de.php"/>
+  <file crc="1541762795780" name="\\PUESTO07-PC\Web\CordobaPymes\vendor\phpmailer\phpmailer\language\phpmailer.lang-da.php"/>
+  <file crc="1541762795780" name="\\PUESTO07-PC\Web\CordobaPymes\vendor\phpmailer\phpmailer\language\phpmailer.lang-cs.php"/>
+  <file crc="1541762795780" name="\\PUESTO07-PC\Web\CordobaPymes\vendor\phpmailer\phpmailer\language\phpmailer.lang-ch.php"/>
+  <file crc="1541762795780" name="\\PUESTO07-PC\Web\CordobaPymes\vendor\phpmailer\phpmailer\language\phpmailer.lang-ca.php"/>
+  <file crc="1541762795780" name="\\PUESTO07-PC\Web\CordobaPymes\vendor\phpmailer\phpmailer\language\phpmailer.lang-bg.php"/>
+  <file crc="1541762795780" name="\\PUESTO07-PC\Web\CordobaPymes\vendor\phpmailer\phpmailer\language\phpmailer.lang-be.php"/>
+  <file crc="1541762795780" name="\\PUESTO07-PC\Web\CordobaPymes\vendor\phpmailer\phpmailer\language\phpmailer.lang-ba.php"/>
+  <file crc="1541762795780" name="\\PUESTO07-PC\Web\CordobaPymes\vendor\phpmailer\phpmailer\language\phpmailer.lang-az.php"/>
+  <file crc="1541762795780" name="\\PUESTO07-PC\Web\CordobaPymes\vendor\phpmailer\phpmailer\language\phpmailer.lang-ar.php"/>
+  <file crc="1541762795780" name="\\PUESTO07-PC\Web\CordobaPymes\vendor\phpmailer\phpmailer\language\phpmailer.lang-am.php"/>
+  <file crc="1541762795780" name="\\PUESTO07-PC\Web\CordobaPymes\vendor\phpmailer\phpmailer\get_oauth_token.php"/>
+  <file crc="1541762795764" name="\\PUESTO07-PC\Web\CordobaPymes\vendor\composer\ClassLoader.php"/>
+  <file crc="1541762795764" name="\\PUESTO07-PC\Web\CordobaPymes\vendor\composer\autoload_static.php"/>
+  <file crc="1541762795764" name="\\PUESTO07-PC\Web\CordobaPymes\vendor\composer\autoload_real.php"/>
+  <file crc="1541762795764" name="\\PUESTO07-PC\Web\CordobaPymes\vendor\composer\autoload_psr4.php"/>
+  <file crc="1541762795764" name="\\PUESTO07-PC\Web\CordobaPymes\vendor\composer\autoload_namespaces.php"/>
+  <file crc="1541762795764" name="\\PUESTO07-PC\Web\CordobaPymes\vendor\composer\autoload_classmap.php"/>
+  <file crc="1541762795764" name="\\PUESTO07-PC\Web\CordobaPymes\vendor\autoload.php"/>
+  <file crc="1542197826819" name="\\PUESTO07-PC\Web\CordobaPymes\Config\Autoload.php"/>
+  <file crc="1541558815513" name="\\PUESTO07-PC\Web\CordobaPymes\Clases\Zebra_Image.php"/>
+  <file crc="1541711956575" name="\\PUESTO07-PC\Web\CordobaPymes\Clases\Videos.php"/>
+  <file crc="1541558812981" name="\\PUESTO07-PC\Web\CordobaPymes\Clases\Usuarios.php"/>
+  <file crc="1541518594614" name="\\PUESTO07-PC\Web\CordobaPymes\Clases\TemplateSite.php"/>
+  <file crc="1541774037039" name="\\PUESTO07-PC\Web\CordobaPymes\Clases\TemplateAdmin.php"/>
+  <file crc="1541774037038" name="\\PUESTO07-PC\Web\CordobaPymes\Clases\Subcategorias.php"/>
+  <file crc="1541795164322" name="\\PUESTO07-PC\Web\CordobaPymes\Clases\Sliders.php"/>
+  <file crc="1541712042796" name="\\PUESTO07-PC\Web\CordobaPymes\Clases\Servicios.php"/>
+  <file crc="1542202755628" name="\\PUESTO07-PC\Web\CordobaPymes\Clases\PublicFunction.php"/>
+  <file crc="1541804144099" name="\\PUESTO07-PC\Web\CordobaPymes\Clases\Productos.php"/>
+  <file crc="1541558804162" name="\\PUESTO07-PC\Web\CordobaPymes\Clases\Portfolio.php"/>
+  <file crc="1541798497435" name="\\PUESTO07-PC\Web\CordobaPymes\Clases\Pedidos.php"/>
+  <file crc="1542211241206" name="\\PUESTO07-PC\Web\CordobaPymes\Clases\Novedades.php"/>
+  <file crc="1541776648922" name="\\PUESTO07-PC\Web\CordobaPymes\Clases\Imagenes.php"/>
+  <file crc="1541558798577" name="\\PUESTO07-PC\Web\CordobaPymes\Clases\GAnalytics.php"/>
+  <file crc="1541632578052" name="\\PUESTO07-PC\Web\CordobaPymes\Clases\Galerias.php"/>
+  <file crc="1541804117232" name="\\PUESTO07-PC\Web\CordobaPymes\Clases\Email.php"/>
+  <file crc="1541634475227" name="\\PUESTO07-PC\Web\CordobaPymes\Clases\Contenidos.php"/>
+  <file crc="1541638036016" name="\\PUESTO07-PC\Web\CordobaPymes\Clases\Contacto.php"/>
+  <file crc="1542118316505" name="\\PUESTO07-PC\Web\CordobaPymes\Clases\Conexion.php"/>
+  <file crc="1542121610950" name="\\PUESTO07-PC\Web\CordobaPymes\Clases\Categorias.php"/>
+  <file crc="1541633719149" name="\\PUESTO07-PC\Web\CordobaPymes\Clases\Carrito.php"/>
+  <file crc="1542205787869" name="\\PUESTO07-PC\Web\CordobaPymes\Clases\Banner.php"/>
+  <file crc="1541776648925" name="\\PUESTO07-PC\Web\CordobaPymes\Clases\Admin.php"/>
+  <file crc="1434029666000" name="\\PUESTO07-PC\Web\CordobaPymes\assets\js\video.js"/>
+  <file crc="1426506130000" name="\\PUESTO07-PC\Web\CordobaPymes\assets\js\npm.js"/>
+  <file crc="1426506130000" name="\\PUESTO07-PC\Web\CordobaPymes\assets\js\bootstrap.min.js"/>
+  <file crc="1426506130000" name="\\PUESTO07-PC\Web\CordobaPymes\assets\js\bootstrap.js"/>
+  <file crc="1480683946000" name="\\PUESTO07-PC\Web\CordobaPymes\assets\inc\zebra_image.php"/>
+  <file crc="1542211088383" name="\\PUESTO07-PC\Web\CordobaPymes\assets\inc\nav.inc.php"/>
+  <file crc="1542207074311" name="\\PUESTO07-PC\Web\CordobaPymes\assets\inc\header.inc.php"/>
+  <file crc="1542198577531" name="\\PUESTO07-PC\Web\CordobaPymes\assets\inc\footer.inc.php"/>
+  <file crc="1542028842511" name="\\PUESTO07-PC\Web\CordobaPymes\assets\inc\banner.inc.php"/>
+  <file crc="1480683944000" name="\\PUESTO07-PC\Web\CordobaPymes\assets\inc\agregar_portfolio.php"/>
+  <file crc="1443175540000" name="\\PUESTO07-PC\Web\CordobaPymes\assets\css\yamm.css"/>
+  <file crc="1542208419312" name="\\PUESTO07-PC\Web\CordobaPymes\assets\css\style.css"/>
+  <file crc="1542207048395" name="\\PUESTO07-PC\Web\CordobaPymes\assets\css\margin.padding.css"/>
+  <file crc="1542209044431" name="\\PUESTO07-PC\Web\CordobaPymes\assets\css\estilo.css"/>
+  <file crc="1457377932000" name="\\PUESTO07-PC\Web\CordobaPymes\assets\css\bootstrap.min.css"/>
+  <file crc="1426506130000" name="\\PUESTO07-PC\Web\CordobaPymes\assets\css\bootstrap.css"/>
+  <file crc="1426506130000" name="\\PUESTO07-PC\Web\CordobaPymes\assets\css\bootstrap-theme.min.css"/>
+  <file crc="1426506128000" name="\\PUESTO07-PC\Web\CordobaPymes\assets\css\bootstrap-theme.css"/>
+  <file crc="1435664358000" name="\\PUESTO07-PC\Web\CordobaPymes\assets\css\animated.css"/>
+  <file crc="1397498152000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\js\plugins\morris\raphael-2.1.0.min.js"/>
+  <file crc="1397498152000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\js\plugins\morris\morris.js"/>
+  <file crc="1397498152000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\js\plugins\metisMenu\jquery.metisMenu.js"/>
+  <file crc="1397498152000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\js\plugins\flot\jquery.flot.tooltip.min.js"/>
+  <file crc="1397498152000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\js\plugins\flot\jquery.flot.resize.js"/>
+  <file crc="1397498152000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\js\plugins\flot\jquery.flot.pie.js"/>
+  <file crc="1397498152000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\js\plugins\flot\jquery.flot.js"/>
+  <file crc="1397498152000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\js\plugins\flot\excanvas.min.js"/>
+  <file crc="1397498152000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\js\plugins\dataTables\jquery.dataTables.js"/>
+  <file crc="1397498152000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\js\plugins\dataTables\dataTables.bootstrap.js"/>
+  <file crc="1399391060000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\js\demo\morris-demo.js"/>
+  <file crc="1397498152000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\js\demo\flot-demo.js"/>
+  <file crc="1399391564000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\js\demo\dashboard-demo.php"/>
+  <file crc="1399404670000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\js\demo\dashboard-demo.js"/>
+  <file crc="1434029622000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\js\video.js"/>
+  <file crc="1541797351589" name="\\PUESTO07-PC\Web\CordobaPymes\admin\js\script.js"/>
+  <file crc="1397498152000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\js\sb-admin.js"/>
+  <file crc="1432383846000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\js\jquery.uploadPreview.min.js"/>
+  <file crc="1397498152000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\js\jquery-1.10.2.js"/>
+  <file crc="1421327106000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\js\dataTables.js"/>
+  <file crc="1397498152000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\js\bootstrap.min.js"/>
+  <file crc="1397498152000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\js\bootstrap.js"/>
+  <file crc="1541777115730" name="\\PUESTO07-PC\Web\CordobaPymes\admin\inc\videos\ver.php"/>
+  <file crc="1541774037035" name="\\PUESTO07-PC\Web\CordobaPymes\admin\inc\videos\modificar.php"/>
+  <file crc="1541774037034" name="\\PUESTO07-PC\Web\CordobaPymes\admin\inc\videos\agregar.php"/>
+  <file crc="1541777076734" name="\\PUESTO07-PC\Web\CordobaPymes\admin\inc\usuarios\ver.php"/>
+  <file crc="1541798460860" name="\\PUESTO07-PC\Web\CordobaPymes\admin\inc\usuarios\modificar.php"/>
+  <file crc="1541798466203" name="\\PUESTO07-PC\Web\CordobaPymes\admin\inc\usuarios\agregar.php"/>
+  <file crc="1541777235987" name="\\PUESTO07-PC\Web\CordobaPymes\admin\inc\subcategorias\ver.php"/>
+  <file crc="1541793016880" name="\\PUESTO07-PC\Web\CordobaPymes\admin\inc\subcategorias\modificar.php"/>
+  <file crc="1541792990464" name="\\PUESTO07-PC\Web\CordobaPymes\admin\inc\subcategorias\agregar.php"/>
+  <file crc="1541777063743" name="\\PUESTO07-PC\Web\CordobaPymes\admin\inc\sliders\ver.php"/>
+  <file crc="1541795321818" name="\\PUESTO07-PC\Web\CordobaPymes\admin\inc\sliders\modificar.php"/>
+  <file crc="1541795276655" name="\\PUESTO07-PC\Web\CordobaPymes\admin\inc\sliders\agregar.php"/>
+  <file crc="1541776741214" name="\\PUESTO07-PC\Web\CordobaPymes\admin\inc\servicios\ver.php"/>
+  <file crc="1541794871882" name="\\PUESTO07-PC\Web\CordobaPymes\admin\inc\servicios\modificar.php"/>
+  <file crc="1541794890753" name="\\PUESTO07-PC\Web\CordobaPymes\admin\inc\servicios\agregar.php"/>
+  <file crc="1541797067479" name="\\PUESTO07-PC\Web\CordobaPymes\admin\inc\productos\ver.php"/>
+  <file crc="1541796523073" name="\\PUESTO07-PC\Web\CordobaPymes\admin\inc\productos\modificar.php"/>
+  <file crc="1541804710003" name="\\PUESTO07-PC\Web\CordobaPymes\admin\inc\productos\importar.php"/>
+  <file crc="1541796476807" name="\\PUESTO07-PC\Web\CordobaPymes\admin\inc\productos\agregar.php"/>
+  <file crc="1541776722157" name="\\PUESTO07-PC\Web\CordobaPymes\admin\inc\portfolio\ver.php"/>
+  <file crc="1541795458689" name="\\PUESTO07-PC\Web\CordobaPymes\admin\inc\portfolio\modificar.php"/>
+  <file crc="1541796109591" name="\\PUESTO07-PC\Web\CordobaPymes\admin\inc\portfolio\agregar.php"/>
+  <file crc="1541803432956" name="\\PUESTO07-PC\Web\CordobaPymes\admin\inc\pedidos\ver.php"/>
+  <file crc="1541774037035" name="\\PUESTO07-PC\Web\CordobaPymes\admin\inc\pedidos\modificar.php"/>
+  <file crc="1541774037034" name="\\PUESTO07-PC\Web\CordobaPymes\admin\inc\pedidos\agregar.php"/>
+  <file crc="1542118404479" name="\\PUESTO07-PC\Web\CordobaPymes\admin\inc\novedades\ver.php"/>
+  <file crc="1541794801945" name="\\PUESTO07-PC\Web\CordobaPymes\admin\inc\novedades\modificar.php"/>
+  <file crc="1541794772051" name="\\PUESTO07-PC\Web\CordobaPymes\admin\inc\novedades\agregar.php"/>
+  <file crc="1541796839763" name="\\PUESTO07-PC\Web\CordobaPymes\admin\inc\inicio\ver.php"/>
+  <file crc="1541776714823" name="\\PUESTO07-PC\Web\CordobaPymes\admin\inc\galerias\ver.php"/>
+  <file crc="1541794536292" name="\\PUESTO07-PC\Web\CordobaPymes\admin\inc\galerias\modificar.php"/>
+  <file crc="1541793672915" name="\\PUESTO07-PC\Web\CordobaPymes\admin\inc\galerias\agregar.php"/>
+  <file crc="1541776404357" name="\\PUESTO07-PC\Web\CordobaPymes\admin\inc\contenidos\ver.php"/>
+  <file crc="1541800255967" name="\\PUESTO07-PC\Web\CordobaPymes\admin\inc\contenidos\modificar.php"/>
+  <file crc="1541774037013" name="\\PUESTO07-PC\Web\CordobaPymes\admin\inc\contenidos\agregar.php"/>
+  <file crc="1541794426944" name="\\PUESTO07-PC\Web\CordobaPymes\admin\inc\categorias\ver.php"/>
+  <file crc="1541792956448" name="\\PUESTO07-PC\Web\CordobaPymes\admin\inc\categorias\modificar.php"/>
+  <file crc="1541792976488" name="\\PUESTO07-PC\Web\CordobaPymes\admin\inc\categorias\agregar.php"/>
+  <file crc="1434052454000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\inc\pie.inc.php"/>
+  <file crc="1542205768904" name="\\PUESTO07-PC\Web\CordobaPymes\admin\inc\nav.inc.php"/>
+  <file crc="1541774037018" name="\\PUESTO07-PC\Web\CordobaPymes\admin\inc\header.inc.php"/>
+  <file crc="1397498152000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\css\plugins\timeline\timeline.css"/>
+  <file crc="1397498152000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\css\plugins\social-buttons\social-buttons.css"/>
+  <file crc="1397498152000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\css\plugins\morris\morris-0.4.3.min.css"/>
+  <file crc="1429800578000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\css\plugins\dataTables\dataTables.bootstrap.css"/>
+  <file crc="1542115043688" name="\\PUESTO07-PC\Web\CordobaPymes\admin\css\style.css"/>
+  <file crc="1429792832000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\css\sb-admin.css"/>
+  <file crc="1397498152000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\css\bootstrap.min.css"/>
+  <file crc="1397498152000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\css\bootstrap.css"/>
+  <file crc="1511554364000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\skins\moono-lisa\editor_iequirks.css"/>
+  <file crc="1511554364000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\skins\moono-lisa\editor_ie8.css"/>
+  <file crc="1511554364000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\skins\moono-lisa\editor_ie.css"/>
+  <file crc="1511554364000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\skins\moono-lisa\editor_gecko.css"/>
+  <file crc="1511554364000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\skins\moono-lisa\editor.css"/>
+  <file crc="1511554364000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\skins\moono-lisa\dialog_iequirks.css"/>
+  <file crc="1511554364000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\skins\moono-lisa\dialog_ie8.css"/>
+  <file crc="1511554364000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\skins\moono-lisa\dialog_ie.css"/>
+  <file crc="1511554364000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\skins\moono-lisa\dialog.css"/>
+  <file crc="1389307420000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\skins\moono\editor_iequirks.css"/>
+  <file crc="1389307422000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\skins\moono\editor_ie8.css"/>
+  <file crc="1389307422000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\skins\moono\editor_ie7.css"/>
+  <file crc="1389307422000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\skins\moono\editor_ie.css"/>
+  <file crc="1389307422000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\skins\moono\editor_gecko.css"/>
+  <file crc="1389307422000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\skins\moono\editor.css"/>
+  <file crc="1389307422000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\skins\moono\dialog_opera.css"/>
+  <file crc="1389307422000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\skins\moono\dialog_iequirks.css"/>
+  <file crc="1389307422000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\skins\moono\dialog_ie8.css"/>
+  <file crc="1389307422000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\skins\moono\dialog_ie7.css"/>
+  <file crc="1389307424000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\skins\moono\dialog_ie.css"/>
+  <file crc="1389307424000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\skins\moono\dialog.css"/>
+  <file crc="1389307420000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\samples\plugins\wysiwygarea\fullpage.html"/>
+  <file crc="1389307420000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\samples\plugins\toolbar\toolbar.html"/>
+  <file crc="1389307420000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\samples\plugins\magicline\magicline.html"/>
+  <file crc="1389307420000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\samples\plugins\htmlwriter\assets\outputforflash\swfobject.js"/>
+  <file crc="1389307418000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\samples\plugins\htmlwriter\outputhtml.html"/>
+  <file crc="1389307418000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\samples\plugins\htmlwriter\outputforflash.html"/>
+  <file crc="1389307418000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\samples\plugins\enterkey\enterkey.html"/>
+  <file crc="1389307418000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\samples\plugins\dialog\assets\my_dialog.js"/>
+  <file crc="1389307418000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\samples\plugins\dialog\dialog.html"/>
+  <file crc="1389307418000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\samples\assets\uilanguages\languages.js"/>
+  <file crc="1389307418000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\samples\assets\outputxhtml\outputxhtml.css"/>
+  <file crc="1389307418000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\samples\assets\sample.css"/>
+  <file crc="1389307418000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\samples\assets\posteddata.php"/>
+  <file crc="1389307414000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\samples\xhtmlstyle.html"/>
+  <file crc="1389307414000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\samples\uilanguages.html"/>
+  <file crc="1389307414000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\samples\uicolor.html"/>
+  <file crc="1389307416000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\samples\tabindex.html"/>
+  <file crc="1389307416000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\samples\sample_posteddata.php"/>
+  <file crc="1389307416000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\samples\sample.js"/>
+  <file crc="1389307416000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\samples\sample.css"/>
+  <file crc="1389307416000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\samples\replacebycode.html"/>
+  <file crc="1389307416000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\samples\replacebyclass.html"/>
+  <file crc="1389307416000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\samples\readonly.html"/>
+  <file crc="1389307416000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\samples\inlinebycode.html"/>
+  <file crc="1389307416000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\samples\inlineall.html"/>
+  <file crc="1389307416000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\samples\index.html"/>
+  <file crc="1389307416000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\samples\divreplace.html"/>
+  <file crc="1389307416000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\samples\appendto.html"/>
+  <file crc="1389307416000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\samples\api.html"/>
+  <file crc="1389307416000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\samples\ajax.html"/>
+  <file crc="1511554362000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\wsc\skins\moono-lisa\wsc.css"/>
+  <file crc="1511554362000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\wsc\dialogs\wsc_ie.js"/>
+  <file crc="1511554362000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\wsc\dialogs\wsc.js"/>
+  <file crc="1511554362000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\wsc\dialogs\wsc.css"/>
+  <file crc="1511554362000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\wsc\dialogs\tmpFrameset.html"/>
+  <file crc="1511554362000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\wsc\dialogs\ciframe.html"/>
+  <file crc="1511554362000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\widgetselection\plugin.js"/>
+  <file crc="1511554358000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\widget\lang\zh.js"/>
+  <file crc="1511554358000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\widget\lang\zh-cn.js"/>
+  <file crc="1511554358000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\widget\lang\vi.js"/>
+  <file crc="1511554358000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\widget\lang\uk.js"/>
+  <file crc="1511554358000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\widget\lang\ug.js"/>
+  <file crc="1511554358000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\widget\lang\tt.js"/>
+  <file crc="1511554358000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\widget\lang\tr.js"/>
+  <file crc="1511554358000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\widget\lang\sv.js"/>
+  <file crc="1511554358000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\widget\lang\sq.js"/>
+  <file crc="1511554358000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\widget\lang\sl.js"/>
+  <file crc="1511554358000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\widget\lang\sk.js"/>
+  <file crc="1511554358000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\widget\lang\ru.js"/>
+  <file crc="1511554358000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\widget\lang\pt.js"/>
+  <file crc="1511554358000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\widget\lang\pt-br.js"/>
+  <file crc="1511554360000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\widget\lang\pl.js"/>
+  <file crc="1511554360000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\widget\lang\oc.js"/>
+  <file crc="1511554360000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\widget\lang\no.js"/>
+  <file crc="1511554360000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\widget\lang\nl.js"/>
+  <file crc="1511554360000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\widget\lang\nb.js"/>
+  <file crc="1511554360000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\widget\lang\lv.js"/>
+  <file crc="1511554360000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\widget\lang\ku.js"/>
+  <file crc="1511554360000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\widget\lang\ko.js"/>
+  <file crc="1511554360000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\widget\lang\km.js"/>
+  <file crc="1511554360000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\widget\lang\ja.js"/>
+  <file crc="1511554360000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\widget\lang\it.js"/>
+  <file crc="1511554360000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\widget\lang\id.js"/>
+  <file crc="1511554360000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\widget\lang\hu.js"/>
+  <file crc="1511554360000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\widget\lang\hr.js"/>
+  <file crc="1511554360000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\widget\lang\he.js"/>
+  <file crc="1511554360000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\widget\lang\gl.js"/>
+  <file crc="1511554360000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\widget\lang\fr.js"/>
+  <file crc="1511554360000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\widget\lang\fi.js"/>
+  <file crc="1511554360000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\widget\lang\fa.js"/>
+  <file crc="1511554360000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\widget\lang\eu.js"/>
+  <file crc="1511554360000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\widget\lang\es.js"/>
+  <file crc="1511554360000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\widget\lang\es-mx.js"/>
+  <file crc="1511554360000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\widget\lang\eo.js"/>
+  <file crc="1511554360000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\widget\lang\en.js"/>
+  <file crc="1511554360000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\widget\lang\en-gb.js"/>
+  <file crc="1511554360000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\widget\lang\el.js"/>
+  <file crc="1511554360000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\widget\lang\de.js"/>
+  <file crc="1511554360000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\widget\lang\de-ch.js"/>
+  <file crc="1511554362000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\widget\lang\da.js"/>
+  <file crc="1511554362000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\widget\lang\cy.js"/>
+  <file crc="1511554362000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\widget\lang\cs.js"/>
+  <file crc="1511554362000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\widget\lang\ca.js"/>
+  <file crc="1511554362000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\widget\lang\bg.js"/>
+  <file crc="1511554362000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\widget\lang\az.js"/>
+  <file crc="1511554362000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\widget\lang\ar.js"/>
+  <file crc="1511554362000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\widget\lang\af.js"/>
+  <file crc="1511554358000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\widget\dev\assets\simplebox\dialogs\simplebox.js"/>
+  <file crc="1511554358000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\widget\dev\assets\simplebox\plugin.js"/>
+  <file crc="1511554358000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\widget\dev\assets\simplebox\contents.css"/>
+  <file crc="1511554358000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\widget\dev\assets\contents.css"/>
+  <file crc="1511554356000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\widget\dev\widgetstyles.html"/>
+  <file crc="1511554356000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\widget\dev\nestedwidgets.html"/>
+  <file crc="1511554356000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\widget\dev\console.js"/>
+  <file crc="1511554356000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\widget\plugin.js"/>
+  <file crc="1511554356000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\templates\templates\default.js"/>
+  <file crc="1511554356000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\templates\dialogs\templates.js"/>
+  <file crc="1511554356000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\templates\dialogs\templates.css"/>
+  <file crc="1511554354000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\tabletools\dialogs\tableCell.js"/>
+  <file crc="1511554354000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\tableselection\styles\tableselection.css"/>
+  <file crc="1511554354000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\table\dialogs\table.js"/>
+  <file crc="1511554350000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\specialchar\dialogs\lang\zh.js"/>
+  <file crc="1511554350000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\specialchar\dialogs\lang\zh-cn.js"/>
+  <file crc="1511554350000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\specialchar\dialogs\lang\vi.js"/>
+  <file crc="1511554350000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\specialchar\dialogs\lang\uk.js"/>
+  <file crc="1511554350000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\specialchar\dialogs\lang\ug.js"/>
+  <file crc="1511554350000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\specialchar\dialogs\lang\tt.js"/>
+  <file crc="1511554350000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\specialchar\dialogs\lang\tr.js"/>
+  <file crc="1511554350000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\specialchar\dialogs\lang\th.js"/>
+  <file crc="1511554350000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\specialchar\dialogs\lang\sv.js"/>
+  <file crc="1511554350000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\specialchar\dialogs\lang\sq.js"/>
+  <file crc="1511554350000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\specialchar\dialogs\lang\sl.js"/>
+  <file crc="1511554352000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\specialchar\dialogs\lang\sk.js"/>
+  <file crc="1511554352000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\specialchar\dialogs\lang\si.js"/>
+  <file crc="1511554352000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\specialchar\dialogs\lang\ru.js"/>
+  <file crc="1511554352000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\specialchar\dialogs\lang\pt.js"/>
+  <file crc="1511554352000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\specialchar\dialogs\lang\pt-br.js"/>
+  <file crc="1511554352000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\specialchar\dialogs\lang\pl.js"/>
+  <file crc="1511554352000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\specialchar\dialogs\lang\oc.js"/>
+  <file crc="1511554352000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\specialchar\dialogs\lang\no.js"/>
+  <file crc="1511554352000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\specialchar\dialogs\lang\nl.js"/>
+  <file crc="1511554352000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\specialchar\dialogs\lang\nb.js"/>
+  <file crc="1511554352000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\specialchar\dialogs\lang\lv.js"/>
+  <file crc="1511554352000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\specialchar\dialogs\lang\lt.js"/>
+  <file crc="1511554352000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\specialchar\dialogs\lang\ku.js"/>
+  <file crc="1511554352000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\specialchar\dialogs\lang\ko.js"/>
+  <file crc="1511554352000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\specialchar\dialogs\lang\km.js"/>
+  <file crc="1511554352000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\specialchar\dialogs\lang\ja.js"/>
+  <file crc="1511554352000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\specialchar\dialogs\lang\it.js"/>
+  <file crc="1511554352000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\specialchar\dialogs\lang\id.js"/>
+  <file crc="1511554352000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\specialchar\dialogs\lang\hu.js"/>
+  <file crc="1511554352000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\specialchar\dialogs\lang\hr.js"/>
+  <file crc="1511554352000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\specialchar\dialogs\lang\he.js"/>
+  <file crc="1511554352000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\specialchar\dialogs\lang\gl.js"/>
+  <file crc="1511554352000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\specialchar\dialogs\lang\fr.js"/>
+  <file crc="1511554352000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\specialchar\dialogs\lang\fr-ca.js"/>
+  <file crc="1511554352000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\specialchar\dialogs\lang\fi.js"/>
+  <file crc="1511554352000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\specialchar\dialogs\lang\fa.js"/>
+  <file crc="1511554354000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\specialchar\dialogs\lang\eu.js"/>
+  <file crc="1511554354000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\specialchar\dialogs\lang\et.js"/>
+  <file crc="1511554354000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\specialchar\dialogs\lang\es.js"/>
+  <file crc="1511554354000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\specialchar\dialogs\lang\es-mx.js"/>
+  <file crc="1511554354000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\specialchar\dialogs\lang\eo.js"/>
+  <file crc="1511554354000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\specialchar\dialogs\lang\en.js"/>
+  <file crc="1511554354000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\specialchar\dialogs\lang\en-gb.js"/>
+  <file crc="1511554354000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\specialchar\dialogs\lang\en-ca.js"/>
+  <file crc="1511554354000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\specialchar\dialogs\lang\en-au.js"/>
+  <file crc="1511554354000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\specialchar\dialogs\lang\el.js"/>
+  <file crc="1511554354000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\specialchar\dialogs\lang\de.js"/>
+  <file crc="1511554354000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\specialchar\dialogs\lang\de-ch.js"/>
+  <file crc="1511554354000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\specialchar\dialogs\lang\da.js"/>
+  <file crc="1511554354000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\specialchar\dialogs\lang\cy.js"/>
+  <file crc="1511554354000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\specialchar\dialogs\lang\cs.js"/>
+  <file crc="1511554354000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\specialchar\dialogs\lang\ca.js"/>
+  <file crc="1511554354000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\specialchar\dialogs\lang\bg.js"/>
+  <file crc="1511554354000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\specialchar\dialogs\lang\az.js"/>
+  <file crc="1511554354000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\specialchar\dialogs\lang\ar.js"/>
+  <file crc="1511554354000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\specialchar\dialogs\lang\af.js"/>
+  <file crc="1511554354000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\specialchar\dialogs\lang\_translationstatus.txt"/>
+  <file crc="1511554350000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\specialchar\dialogs\specialchar.js"/>
+  <file crc="1511554346000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\smiley\dialogs\smiley.js"/>
+  <file crc="1511554346000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\scayt\skins\moono-lisa\scayt.css"/>
+  <file crc="1511554344000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\scayt\dialogs\toolbar.css"/>
+  <file crc="1511554346000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\scayt\dialogs\options.js"/>
+  <file crc="1511554346000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\scayt\dialogs\dialog.css"/>
+  <file crc="1511554344000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\preview\preview.html"/>
+  <file crc="1511554344000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\pastefromword\filter\default.js"/>
+  <file crc="1511554344000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\liststyle\dialogs\liststyle.js"/>
+  <file crc="1511554342000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\link\dialogs\link.js"/>
+  <file crc="1511554344000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\link\dialogs\anchor.js"/>
+  <file crc="1511554342000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\lineutils\dev\magicfinger.html"/>
+  <file crc="1511554342000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\lineutils\dev\dnd.html"/>
+  <file crc="1511554342000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\lineutils\plugin.js"/>
+  <file crc="1511554342000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\lightbox\lang\pl.js"/>
+  <file crc="1511554342000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\lightbox\lang\en.js"/>
+  <file crc="1511554340000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\lightbox\dialogs\lightbox.js"/>
+  <file crc="1511554340000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\lightbox\plugin.js"/>
+  <file crc="1511554340000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\inserthtml4x\dialogs\inserthtml.js"/>
+  <file crc="1511554340000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\inserthtml4x\readme.txt"/>
+  <file crc="1511554340000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\inserthtml4x\plugin.js"/>
+  <file crc="1511554340000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\imageuploader\lang\pl.php"/>
+  <file crc="1511554340000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\imageuploader\lang\lang.php"/>
+  <file crc="1511554340000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\imageuploader\lang\es.php"/>
+  <file crc="1511554340000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\imageuploader\lang\en.php"/>
+  <file crc="1511554336000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\imageuploader\dist\sweetalert.min.js"/>
+  <file crc="1511554336000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\imageuploader\dist\sweetalert.css"/>
+  <file crc="1511554336000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\imageuploader\dist\js.cookie-2.0.3.min.js"/>
+  <file crc="1511554336000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\imageuploader\dist\jquery.lazyload.min.js"/>
+  <file crc="1511554334000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\imageuploader\styles.min.css"/>
+  <file crc="1540861191221" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\imageuploader\styles.css"/>
+  <file crc="1519660794000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\imageuploader\pluginconfig.php"/>
+  <file crc="1511554336000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\imageuploader\plugin.js"/>
+  <file crc="1511554336000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\imageuploader\new.php"/>
+  <file crc="1511554336000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\imageuploader\logout.php"/>
+  <file crc="1511554336000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\imageuploader\loginindex.php"/>
+  <file crc="1511554336000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\imageuploader\login.php"/>
+  <file crc="1511554336000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\imageuploader\imgupload.php"/>
+  <file crc="1511554336000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\imageuploader\imgdelete.php"/>
+  <file crc="1511554336000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\imageuploader\imgbrowser.php"/>
+  <file crc="1511554336000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\imageuploader\function.php"/>
+  <file crc="1511554336000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\imageuploader\function.js"/>
+  <file crc="1511554336000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\imageuploader\create.php"/>
+  <file crc="1511554336000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\imageuploader\check_permission.php"/>
+  <file crc="1511554334000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\image\dialogs\image.js"/>
+  <file crc="1511554334000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\iframe\dialogs\iframe.js"/>
+  <file crc="1511554334000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\forms\dialogs\textfield.js"/>
+  <file crc="1511554334000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\forms\dialogs\textarea.js"/>
+  <file crc="1511554334000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\forms\dialogs\select.js"/>
+  <file crc="1511554334000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\forms\dialogs\radio.js"/>
+  <file crc="1511554334000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\forms\dialogs\hiddenfield.js"/>
+  <file crc="1511554334000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\forms\dialogs\form.js"/>
+  <file crc="1511554334000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\forms\dialogs\checkbox.js"/>
+  <file crc="1511554334000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\forms\dialogs\button.js"/>
+  <file crc="1511554334000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\flash\dialogs\flash.js"/>
+  <file crc="1511554334000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\find\dialogs\find.js"/>
+  <file crc="1511554334000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\div\dialogs\div.js"/>
+  <file crc="1511554332000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\dialog\samples\assets\my_dialog.js"/>
+  <file crc="1511554332000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\dialog\samples\dialog.html"/>
+  <file crc="1511554332000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\dialog\plugin.js"/>
+  <file crc="1511554332000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\dialog\dialogDefinition.js"/>
+  <file crc="1511554332000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\copyformatting\styles\copyformatting.css"/>
+  <file crc="1511554332000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\colordialog\dialogs\colordialog.js"/>
+  <file crc="1511554332000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\colordialog\dialogs\colordialog.css"/>
+  <file crc="1511554330000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\collapsibleItem\plugin.js"/>
+  <file crc="1511554330000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\samples\codesnippet.html"/>
+  <file crc="1511554324000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lib\highlight\styles\zenburn.css"/>
+  <file crc="1511554324000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lib\highlight\styles\xcode.css"/>
+  <file crc="1511554324000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lib\highlight\styles\vs.css"/>
+  <file crc="1511554324000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lib\highlight\styles\tomorrow.css"/>
+  <file crc="1511554326000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lib\highlight\styles\tomorrow-night.css"/>
+  <file crc="1511554326000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lib\highlight\styles\tomorrow-night-eighties.css"/>
+  <file crc="1511554326000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lib\highlight\styles\tomorrow-night-bright.css"/>
+  <file crc="1511554326000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lib\highlight\styles\tomorrow-night-blue.css"/>
+  <file crc="1511554326000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lib\highlight\styles\sunburst.css"/>
+  <file crc="1511554326000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lib\highlight\styles\solarized_light.css"/>
+  <file crc="1511554326000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lib\highlight\styles\solarized_dark.css"/>
+  <file crc="1511554326000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lib\highlight\styles\school_book.css"/>
+  <file crc="1511554326000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lib\highlight\styles\rainbow.css"/>
+  <file crc="1511554326000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lib\highlight\styles\railscasts.css"/>
+  <file crc="1511554326000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lib\highlight\styles\pojoaque.css"/>
+  <file crc="1511554326000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lib\highlight\styles\paraiso.light.css"/>
+  <file crc="1511554326000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lib\highlight\styles\paraiso.dark.css"/>
+  <file crc="1511554326000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lib\highlight\styles\obsidian.css"/>
+  <file crc="1511554326000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lib\highlight\styles\monokai_sublime.css"/>
+  <file crc="1511554326000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lib\highlight\styles\monokai.css"/>
+  <file crc="1511554326000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lib\highlight\styles\mono-blue.css"/>
+  <file crc="1511554326000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lib\highlight\styles\magula.css"/>
+  <file crc="1511554326000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lib\highlight\styles\ir_black.css"/>
+  <file crc="1511554326000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lib\highlight\styles\idea.css"/>
+  <file crc="1511554326000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lib\highlight\styles\googlecode.css"/>
+  <file crc="1511554328000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lib\highlight\styles\github.css"/>
+  <file crc="1511554328000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lib\highlight\styles\foundation.css"/>
+  <file crc="1511554328000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lib\highlight\styles\far.css"/>
+  <file crc="1511554328000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lib\highlight\styles\docco.css"/>
+  <file crc="1511554328000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lib\highlight\styles\default.css"/>
+  <file crc="1511554328000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lib\highlight\styles\dark.css"/>
+  <file crc="1511554330000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lib\highlight\styles\brown_paper.css"/>
+  <file crc="1511554330000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lib\highlight\styles\atelier-seaside.light.css"/>
+  <file crc="1511554330000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lib\highlight\styles\atelier-seaside.dark.css"/>
+  <file crc="1511554330000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lib\highlight\styles\atelier-lakeside.light.css"/>
+  <file crc="1511554330000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lib\highlight\styles\atelier-lakeside.dark.css"/>
+  <file crc="1511554330000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lib\highlight\styles\atelier-heath.light.css"/>
+  <file crc="1511554330000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lib\highlight\styles\atelier-heath.dark.css"/>
+  <file crc="1511554330000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lib\highlight\styles\atelier-forest.light.css"/>
+  <file crc="1511554330000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lib\highlight\styles\atelier-forest.dark.css"/>
+  <file crc="1511554330000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lib\highlight\styles\atelier-dune.light.css"/>
+  <file crc="1511554330000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lib\highlight\styles\atelier-dune.dark.css"/>
+  <file crc="1511554330000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lib\highlight\styles\ascetic.css"/>
+  <file crc="1511554330000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lib\highlight\styles\arta.css"/>
+  <file crc="1511554324000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lib\highlight\highlight.pack.js"/>
+  <file crc="1511554318000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lang\zh.js"/>
+  <file crc="1511554318000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lang\zh-cn.js"/>
+  <file crc="1511554320000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lang\vi.js"/>
+  <file crc="1511554320000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lang\uk.js"/>
+  <file crc="1511554320000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lang\ug.js"/>
+  <file crc="1511554320000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lang\tt.js"/>
+  <file crc="1511554320000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lang\tr.js"/>
+  <file crc="1511554320000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lang\th.js"/>
+  <file crc="1511554320000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lang\sv.js"/>
+  <file crc="1511554320000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lang\sq.js"/>
+  <file crc="1511554320000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lang\sl.js"/>
+  <file crc="1511554320000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lang\sk.js"/>
+  <file crc="1511554320000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lang\ru.js"/>
+  <file crc="1511554320000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lang\ro.js"/>
+  <file crc="1511554320000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lang\pt.js"/>
+  <file crc="1511554320000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lang\pt-br.js"/>
+  <file crc="1511554320000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lang\pl.js"/>
+  <file crc="1511554320000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lang\oc.js"/>
+  <file crc="1511554320000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lang\no.js"/>
+  <file crc="1511554320000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lang\nl.js"/>
+  <file crc="1511554320000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lang\nb.js"/>
+  <file crc="1511554320000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lang\lv.js"/>
+  <file crc="1511554320000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lang\lt.js"/>
+  <file crc="1511554320000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lang\ku.js"/>
+  <file crc="1511554320000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lang\ko.js"/>
+  <file crc="1511554320000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lang\km.js"/>
+  <file crc="1511554320000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lang\ja.js"/>
+  <file crc="1511554320000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lang\it.js"/>
+  <file crc="1511554320000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lang\id.js"/>
+  <file crc="1511554320000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lang\hu.js"/>
+  <file crc="1511554320000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lang\hr.js"/>
+  <file crc="1511554320000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lang\he.js"/>
+  <file crc="1511554322000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lang\gl.js"/>
+  <file crc="1511554322000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lang\fr.js"/>
+  <file crc="1511554322000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lang\fr-ca.js"/>
+  <file crc="1511554322000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lang\fi.js"/>
+  <file crc="1511554322000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lang\fa.js"/>
+  <file crc="1511554322000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lang\eu.js"/>
+  <file crc="1511554322000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lang\et.js"/>
+  <file crc="1511554322000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lang\es.js"/>
+  <file crc="1511554324000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lang\es-mx.js"/>
+  <file crc="1511554324000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lang\eo.js"/>
+  <file crc="1511554324000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lang\en.js"/>
+  <file crc="1511554324000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lang\en-gb.js"/>
+  <file crc="1511554324000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lang\el.js"/>
+  <file crc="1511554324000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lang\de.js"/>
+  <file crc="1511554324000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lang\de-ch.js"/>
+  <file crc="1511554324000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lang\da.js"/>
+  <file crc="1511554324000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lang\cs.js"/>
+  <file crc="1511554324000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lang\ca.js"/>
+  <file crc="1511554324000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lang\bg.js"/>
+  <file crc="1511554324000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lang\az.js"/>
+  <file crc="1511554324000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\lang\ar.js"/>
+  <file crc="1511554318000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\dialogs\codesnippet.js"/>
+  <file crc="1511554318000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\codesnippet\plugin.js"/>
+  <file crc="1389307406000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\clipboard\dialogs\paste.js"/>
+  <file crc="1511554318000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\btgrid\styles\editor.css"/>
+  <file crc="1511554318000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\btgrid\lang\ru.js"/>
+  <file crc="1511554318000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\btgrid\lang\nl.js"/>
+  <file crc="1511554318000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\btgrid\lang\fr.js"/>
+  <file crc="1511554318000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\btgrid\lang\en.js"/>
+  <file crc="1511554318000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\btgrid\lang\de.js"/>
+  <file crc="1511554318000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\btgrid\dialogs\btgrid.js"/>
+  <file crc="1511554318000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\btgrid\plugin.js"/>
+  <file crc="1511554318000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\btgrid\LICENSE.txt"/>
+  <file crc="1511554318000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\bootstrapTabs\sample\bootstrapTabs.html"/>
+  <file crc="1511554316000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\bootstrapTabs\lang\ru.js"/>
+  <file crc="1511554316000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\bootstrapTabs\lang\en.js"/>
+  <file crc="1511554316000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\bootstrapTabs\dialogs\bootstrapTabs.js"/>
+  <file crc="1511554316000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\bootstrapTabs\plugin.js"/>
+  <file crc="1511554316000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\bootstrapTable\dialogs\table.js"/>
+  <file crc="1511554316000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\bootstrapTable\plugin.js"/>
+  <file crc="1511554316000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\accordionList\plugin.js"/>
+  <file crc="1511554316000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\about\dialogs\about.js"/>
+  <file crc="1389307400000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\a11yhelp\dialogs\lang\zh-cn.js"/>
+  <file crc="1389307400000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\a11yhelp\dialogs\lang\vi.js"/>
+  <file crc="1389307400000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\a11yhelp\dialogs\lang\uk.js"/>
+  <file crc="1389307400000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\a11yhelp\dialogs\lang\ug.js"/>
+  <file crc="1389307400000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\a11yhelp\dialogs\lang\tr.js"/>
+  <file crc="1389307400000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\a11yhelp\dialogs\lang\sv.js"/>
+  <file crc="1389307400000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\a11yhelp\dialogs\lang\sl.js"/>
+  <file crc="1389307400000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\a11yhelp\dialogs\lang\sk.js"/>
+  <file crc="1389307400000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\a11yhelp\dialogs\lang\ru.js"/>
+  <file crc="1389307400000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\a11yhelp\dialogs\lang\ro.js"/>
+  <file crc="1389307400000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\a11yhelp\dialogs\lang\pt.js"/>
+  <file crc="1389307400000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\a11yhelp\dialogs\lang\pt-br.js"/>
+  <file crc="1389307400000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\a11yhelp\dialogs\lang\pl.js"/>
+  <file crc="1389307402000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\a11yhelp\dialogs\lang\no.js"/>
+  <file crc="1389307402000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\a11yhelp\dialogs\lang\nl.js"/>
+  <file crc="1389307402000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\a11yhelp\dialogs\lang\nb.js"/>
+  <file crc="1389307402000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\a11yhelp\dialogs\lang\mn.js"/>
+  <file crc="1389307402000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\a11yhelp\dialogs\lang\mk.js"/>
+  <file crc="1389307402000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\a11yhelp\dialogs\lang\lv.js"/>
+  <file crc="1389307402000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\a11yhelp\dialogs\lang\lt.js"/>
+  <file crc="1389307402000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\a11yhelp\dialogs\lang\ku.js"/>
+  <file crc="1389307402000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\a11yhelp\dialogs\lang\ja.js"/>
+  <file crc="1389307402000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\a11yhelp\dialogs\lang\it.js"/>
+  <file crc="1389307402000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\a11yhelp\dialogs\lang\hu.js"/>
+  <file crc="1389307402000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\a11yhelp\dialogs\lang\hr.js"/>
+  <file crc="1389307402000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\a11yhelp\dialogs\lang\hi.js"/>
+  <file crc="1389307402000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\a11yhelp\dialogs\lang\he.js"/>
+  <file crc="1389307404000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\a11yhelp\dialogs\lang\gu.js"/>
+  <file crc="1389307404000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\a11yhelp\dialogs\lang\fr.js"/>
+  <file crc="1389307404000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\a11yhelp\dialogs\lang\fi.js"/>
+  <file crc="1389307404000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\a11yhelp\dialogs\lang\fa.js"/>
+  <file crc="1389307404000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\a11yhelp\dialogs\lang\et.js"/>
+  <file crc="1389307404000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\a11yhelp\dialogs\lang\es.js"/>
+  <file crc="1389307404000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\a11yhelp\dialogs\lang\eo.js"/>
+  <file crc="1389307404000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\a11yhelp\dialogs\lang\en.js"/>
+  <file crc="1389307404000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\a11yhelp\dialogs\lang\el.js"/>
+  <file crc="1389307404000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\a11yhelp\dialogs\lang\de.js"/>
+  <file crc="1389307404000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\a11yhelp\dialogs\lang\da.js"/>
+  <file crc="1389307404000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\a11yhelp\dialogs\lang\cy.js"/>
+  <file crc="1389307404000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\a11yhelp\dialogs\lang\cs.js"/>
+  <file crc="1389307406000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\a11yhelp\dialogs\lang\ca.js"/>
+  <file crc="1389307406000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\a11yhelp\dialogs\lang\bg.js"/>
+  <file crc="1389307406000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\a11yhelp\dialogs\lang\ar.js"/>
+  <file crc="1389307400000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\a11yhelp\dialogs\lang\_translationstatus.txt"/>
+  <file crc="1389307398000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\plugins\a11yhelp\dialogs\a11yhelp.js"/>
+  <file crc="1389307384000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\lang\zh.js"/>
+  <file crc="1389307384000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\lang\zh-cn.js"/>
+  <file crc="1389307386000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\lang\vi.js"/>
+  <file crc="1389307386000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\lang\uk.js"/>
+  <file crc="1389307386000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\lang\ug.js"/>
+  <file crc="1389307388000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\lang\tr.js"/>
+  <file crc="1389307388000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\lang\th.js"/>
+  <file crc="1389307388000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\lang\sv.js"/>
+  <file crc="1389307388000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\lang\sr.js"/>
+  <file crc="1389307388000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\lang\sr-latn.js"/>
+  <file crc="1389307388000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\lang\sl.js"/>
+  <file crc="1389307388000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\lang\sk.js"/>
+  <file crc="1389307390000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\lang\ru.js"/>
+  <file crc="1389307390000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\lang\ro.js"/>
+  <file crc="1389307390000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\lang\pt.js"/>
+  <file crc="1389307390000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\lang\pt-br.js"/>
+  <file crc="1389307390000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\lang\pl.js"/>
+  <file crc="1389307390000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\lang\no.js"/>
+  <file crc="1389307390000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\lang\nl.js"/>
+  <file crc="1389307390000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\lang\nb.js"/>
+  <file crc="1389307392000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\lang\ms.js"/>
+  <file crc="1389307392000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\lang\mn.js"/>
+  <file crc="1389307392000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\lang\mk.js"/>
+  <file crc="1389307392000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\lang\lv.js"/>
+  <file crc="1389307392000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\lang\lt.js"/>
+  <file crc="1389307392000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\lang\ku.js"/>
+  <file crc="1389307392000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\lang\ko.js"/>
+  <file crc="1389307392000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\lang\km.js"/>
+  <file crc="1389307392000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\lang\ka.js"/>
+  <file crc="1389307392000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\lang\ja.js"/>
+  <file crc="1389307392000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\lang\it.js"/>
+  <file crc="1389307394000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\lang\is.js"/>
+  <file crc="1389307394000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\lang\hu.js"/>
+  <file crc="1389307394000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\lang\hr.js"/>
+  <file crc="1389307394000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\lang\hi.js"/>
+  <file crc="1389307394000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\lang\he.js"/>
+  <file crc="1389307394000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\lang\gu.js"/>
+  <file crc="1389307394000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\lang\gl.js"/>
+  <file crc="1389307394000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\lang\fr.js"/>
+  <file crc="1389307394000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\lang\fr-ca.js"/>
+  <file crc="1389307394000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\lang\fo.js"/>
+  <file crc="1389307394000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\lang\fi.js"/>
+  <file crc="1389307396000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\lang\fa.js"/>
+  <file crc="1389307396000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\lang\eu.js"/>
+  <file crc="1389307396000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\lang\et.js"/>
+  <file crc="1511554312000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\lang\es.js"/>
+  <file crc="1511554312000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\lang\es-mx.js"/>
+  <file crc="1511554312000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\lang\eo.js"/>
+  <file crc="1511554312000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\lang\en.js"/>
+  <file crc="1511554312000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\lang\en-gb.js"/>
+  <file crc="1511554312000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\lang\en-ca.js"/>
+  <file crc="1511554312000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\lang\en-au.js"/>
+  <file crc="1389307398000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\lang\el.js"/>
+  <file crc="1389307398000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\lang\de.js"/>
+  <file crc="1389307398000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\lang\da.js"/>
+  <file crc="1389307398000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\lang\cy.js"/>
+  <file crc="1389307398000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\lang\cs.js"/>
+  <file crc="1389307398000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\lang\ca.js"/>
+  <file crc="1389307398000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\lang\bs.js"/>
+  <file crc="1389307398000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\lang\bn.js"/>
+  <file crc="1389307398000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\lang\bg.js"/>
+  <file crc="1389307398000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\lang\ar.js"/>
+  <file crc="1389307398000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\lang\af.js"/>
+  <file crc="1511554304000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\adapters\jquery.js"/>
+  <file crc="1511554304000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\styles.js"/>
+  <file crc="1511554304000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\contents.css"/>
+  <file crc="1511554304000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\config.js"/>
+  <file crc="1511554306000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\ckeditor.js"/>
+  <file crc="1511554304000" name="\\PUESTO07-PC\Web\CordobaPymes\admin\ckeditor\build-config.js"/>
+  <file crc="1541776418310" name="\\PUESTO07-PC\Web\CordobaPymes\admin\index.php"/>
+  <file crc="1540668553589" name="\\PUESTO07-PC\Web\CordobaPymes\admin\.htaccess"/>
+  <file crc="1541762795374" name="\\PUESTO07-PC\Web\CordobaPymes\.idea\workspace.xml"/>
+  <file crc="1541762795358" name="\\PUESTO07-PC\Web\CordobaPymes\.idea\vcs.xml"/>
+  <file crc="1541762795358" name="\\PUESTO07-PC\Web\CordobaPymes\.idea\modules.xml"/>
+  <file crc="1541762795358" name="\\PUESTO07-PC\Web\CordobaPymes\.idea\misc.xml"/>
+  <file crc="1542113424481" name="\\PUESTO07-PC\Web\CordobaPymes\redes-sociales.php"/>
+  <file crc="1542209126686" name="\\PUESTO07-PC\Web\CordobaPymes\novedadesPrueba.php"/>
+  <file crc="1542211017743" name="\\PUESTO07-PC\Web\CordobaPymes\novedades.php"/>
+  <file crc="1542208352867" name="\\PUESTO07-PC\Web\CordobaPymes\novedad.php"/>
+  <file crc="1542031332768" name="\\PUESTO07-PC\Web\CordobaPymes\nota.php"/>
+  <file crc="1542034269477" name="\\PUESTO07-PC\Web\CordobaPymes\nosotros.php"/>
+  <file crc="1541776148862" name="\\PUESTO07-PC\Web\CordobaPymes\indexViejo.php"/>
+  <file crc="1542208522630" name="\\PUESTO07-PC\Web\CordobaPymes\index.php"/>
+  <file crc="1542027896152" name="\\PUESTO07-PC\Web\CordobaPymes\eventos.php"/>
+  <file crc="1542116895265" name="\\PUESTO07-PC\Web\CordobaPymes\contenidos.php"/>
+  <file crc="1542110919229" name="\\PUESTO07-PC\Web\CordobaPymes\contenido.php"/>
+  <file crc="1542033451728" name="\\PUESTO07-PC\Web\CordobaPymes\contacto.php"/>
+  <file crc="1542210638728" name="\\PUESTO07-PC\Web\CordobaPymes\.htaccess"/>
+ </filescache>
+</project>

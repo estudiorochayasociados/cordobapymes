@@ -1,0 +1,100 @@
+    @keyframes ticker {
+    0%   {
+        margin-top: 0
+    }
+    25%  {
+        margin-top: -25px
+    }
+    50%  {
+        margin-top: -50px
+    }
+    75%  {
+        margin-top: -75px
+    }
+    100% {
+        margin-top: 0
+    }
+}
+#cont_615426d860e72614f7f43a5cdb2f2381 {
+    position:absolute;
+    right:0;
+    top:0px;
+    background-color:none !important;
+}
+
+#615426d860e72614f7f43a5cdb2f2381 * {
+    background-color:none !important;
+}
+
+#cont_ff29da4314fe708cf096ac7ee9032545  {
+    width: 100% !important;
+}
+
+.flex-wrap{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.news {
+    float: left;
+    height: 25px;
+    overflow: hidden;
+}
+
+.news span {
+    color: #fff;
+    -webkit-font-smoothing: antialiased;
+    -webkit-user-select: none;
+    cursor: pointer;
+}
+
+.news ul {
+    text-align: left;
+    animation: ticker 10s cubic-bezier(1, 0, .5, 0) infinite;
+    -webkit-user-select: none;
+    padding-left: 10px;
+}
+
+.news ul li {
+    line-height: 25px;
+    list-style: none;
+}
+
+.news ul li a {
+    color: #fff;
+    text-decoration: none;
+    font: 13px Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -webkit-user-select: none
+}
+
+.news ul:hover {
+    animation-play-state: paused
+}
+.news span:hover+ul {
+    animation-play-state: paused
+}
+/* color de la moneda */
+.cotizacion_personalizada {color:#333;float:right; }
+/* color de valor de la moneda */
+.cotizacion_personalizada a {color:#fff; text-decoration:none;font-weight: bold}
+table {
+    width:100% !important;
+    min-width:330px;
+    border:1px solid #333 !important;
+}
+table tr {
+    background:none !important;
+    border:1px solid #333 !important;
+}
+table td {
+
+    border:1px solid #333 !important;
+}
+table th {
+    background:none !important;
+    font-weight:bold;
+}
+.lineHeight{
+    line-height:25px !important;
+}
